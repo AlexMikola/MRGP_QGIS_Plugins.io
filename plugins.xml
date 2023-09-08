@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="mrgp_Functions" version="0.0.2">
+    <pyqgis_plugin name="mrgp_Functions" version="0.0.3">
         <description>mrgp_Functions</description>
         <homepage>https://alexmikola.github.io/MRGP_QGIS_Plugins.io/</homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
