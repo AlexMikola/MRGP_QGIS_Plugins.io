@@ -6,8 +6,9 @@
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>mrgp_Functions.zip</file_name>
         <author_name>Dolan</author_name>
-		<download_url>https://alexmikola.github.io/MRGP_QGIS_Plugins.io/mrgp_Functions.zip</download_url>
-        <!--
+		<download_url>https://github.com/AlexMikola/MRGP_QGIS_Plugins.io/raw/main/mrgp_Functions.7z</download_url>
+					  
+		<!--
 		
 		<download_url>https://alexmikola.github.io/MRGP_QGIS_Plugins.io/mrgp_Functions.zip</download_url>
 					  https://github.com/AlexMikola/MRGP_QGIS_Plugins.io/raw/main/mrgp_Functions.7z
