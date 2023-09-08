@@ -1,0 +1,13 @@
+# This file contains metadata for plugin.
+
+[general]
+name=mrgp_Functions
+qgisMinimumVersion=3.0
+description= Набор функций для Qgis
+version=0.0.3
+author=Dolan
+email=DolgushinAN@glavapu.mos.ru
+about= Набор функций для Qgis
+icon=plug_icon.png
+
+# End of mandatory metadata
