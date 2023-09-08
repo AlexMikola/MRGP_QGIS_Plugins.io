@@ -4,7 +4,7 @@
 name=mrgp_Functions
 qgisMinimumVersion=3.0
 description= Набор функций для Qgis
-version=0.0.5
+version=0.0.2
 author=Dolan
 email=DolgushinAN@glavapu.mos.ru
 about= Набор функций для Qgis
