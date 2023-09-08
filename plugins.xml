@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="mrgp_Functions" version="0.0.2">
+    <pyqgis_plugin name="mrgp_Functions" version="0.0.3">
         <description>mrgp_Functions</description>
-        <homepage>https://glavapu-mos.ru/</homepage>
+        <homepage>https://alexmikola.github.io</homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>mrgp_Functions.zip</file_name>
         <author_name>Dolan</author_name>
-        <download_url>mrgp_Functions.zip</download_url>
+        <download_url>https://alexmikola.github.io/MRGP_QGIS_Plugins.io/mrgp_Functions.zip</download_url>
     </pyqgis_plugin>
 </plugins>
